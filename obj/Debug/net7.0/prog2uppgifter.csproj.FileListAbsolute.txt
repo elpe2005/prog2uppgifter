@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\bin\Debug\net7.0\prog2uppgifter.exe
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\bin\Debug\net7.0\prog2uppgifter.deps.json
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\bin\Debug\net7.0\prog2uppgifter.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\bin\Debug\net7.0\prog2uppgifter.dll
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\bin\Debug\net7.0\prog2uppgifter.pdb
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.dll
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\refint\prog2uppgifter.dll
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.pdb
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\prog2uppgifter.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\prog2uppgifter\obj\Debug\net7.0\ref\prog2uppgifter.dll
