@@ -9,7 +9,7 @@ namespace prog2uppgifter
         public void Omkrets(){
             double omkrets = Math.Sqrt(width*width + height*height);
             omkrets = omkrets + Convert.ToDouble(height + width);
-            Console.WriteLine($"omkretsen{omkrets}");
+            Console.WriteLine($"omkretsen {omkrets}");
         }
         public Triangle(int width,int height) : base(width,height){
 
