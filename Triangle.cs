@@ -4,16 +4,15 @@ namespace prog2uppgifter
     {
         public void Area(){
             int area = width*height/2;
-            Console.WriteLine(Area);
+            Console.WriteLine($"Arean: {area}");
         }
         public void Omkrets(){
             double omkrets = Math.Sqrt(width*width + height*height);
-            Console.WriteLine(Omkrets);
+            omkrets = omkrets + Convert.ToDouble(height + width);
+            Console.WriteLine($"omkretsen{omkrets}");
         }
         public Triangle(int width,int height) : base(width,height){
-        width = width;
-        height = height;
-        Console.WriteLine("Vill du räkna ut Arean eller Omkretsen för en Triangel?");
+
         }
     }
 

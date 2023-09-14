@@ -5,18 +5,19 @@ using prog2uppgifter;
 
 class Program{
     static void Main(){
+        Text p1 = new Text();
+        Console.WriteLine("Vill du räkna ut omkretsen och Arean på en rektangel eller Triangel, skriv 1 för rektangel och 2 för triangel");
         int meny = int.Parse(Console.ReadLine());
-        Console.WriteLine("Vill du räkna ut omkretsen och Arean på en rektangel eller Triangel");
         switch (meny)
         {
             case 1:
             {
-                
+                p1.Rectangleut();
             break;
             }
             case 2:
             {
-
+                p1.Triangelut();
             break;
             }
             
